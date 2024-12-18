@@ -22,5 +22,4 @@ contact me:
  Belal303111 (Belal) (github.com)
 
  Languages and Tools:
-  C++ Java Python html css javascript MYSQL PosterSQL git
-
+   C++ Java Python django html css javascript MYSQL PosterSQL git
