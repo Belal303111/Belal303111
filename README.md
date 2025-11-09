@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **at Al Azhar University in Computer Science and Math Department**
 </p>
 <p>
-- 👯️ I’m looking to collaborate on [AirBnB_Clone](https://github.com/Belal303111/AirBnB_clone_v2)
+- 👯️ I’m looking to collaborate on <a href="https://github.com/Belal303111/AirBnB_clone_v2">AirBnB_Clone</a>
 </p>
 <p>
 - 📧 How to reach me **011022bn@gmail.com**
@@ -67,8 +67,38 @@
     </a>
 </p>
 
+<h3 align="left">Additional Frameworks & Tools</h3>
+<p align="left">
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /> Vue.js
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /> Tailwind CSS
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" /> Spring Boot
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> Linux
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-networking.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="networking" width="40" height="40" /> Networking
+    </a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Belal303111&show_icons=true&locale=en&layout=compact" alt="Belal303111" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Belal303111&show_icons=true&locale=en" alt="Belal303111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Belal303111&" alt="Belal303111" /></p>
+
+<h3 align="left">Security Profiles</h3>
+<p align="left">
+    <a href="https://tryhackme.com/p/011022bn" target="_blank">TryHackMe: 011022bn</a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://academy.hackthebox.com/dashboard" target="_blank">Hack The Box: Belal11</a>
+</p>
