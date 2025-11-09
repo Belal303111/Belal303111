@@ -56,15 +56,6 @@
     <img src="https://img.shields.io/badge/Top%20Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" alt="Top Language: C++" />
   </p>
   <p style="color:#9fb8dd; font-size:13px;">If GitHub still shows <code>C</code> instead of <code>C++</code>, add a <code>.gitattributes</code> file to your repository root with rules to force C++ classification. Example:</p>
-  <pre style="background:rgba(255,255,255,0.03);padding:10px;border-radius:8px;color:#cbd5e1;overflow:auto;">
-# Force C++ language for files with specific extensions or paths
-*.c linguist-language=C++
-*.h linguist-language=C++
-*.cpp linguist-language=C++
-*.cc linguist-language=C++
-*.hpp linguist-language=C++
-/src/** linguist-language=C++
-</pre>
 
   <br>
 
