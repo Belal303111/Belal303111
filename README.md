@@ -82,20 +82,3 @@
 
   <p style="color:#8b949e;">© 2025 Belal Nasser | Crafted with ❤️ and Code</p>
 </div>
-
-<script>
-const typingText = ["Building Robust Back-End Solutions...", "Crafting Secure APIs...", "Empowering Systems with Java & Spring Boot..."]; 
-let count = 0, index = 0, currentText = '', letter = '';
-(function type(){
-  if (count === typingText.length) count = 0;
-  currentText = typingText[count];
-  letter = currentText.slice(0, ++index);
-  document.getElementById('typing').textContent = letter;
-  if (letter.length === currentText.length){
-    count++; index = 0;
-    setTimeout(type, 1500);
-  } else {
-    setTimeout(type, 100);
-  }
-})();
-</script>
