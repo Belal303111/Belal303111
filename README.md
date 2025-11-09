@@ -48,6 +48,21 @@
   <a href="mailto:011022bn@gmail.com" target="_blank" style="margin:10px;">
     <img src="https://img.shields.io/badge/Gmail-011022bn%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
+  
+<div style="margin-top:10px;">
+  <a href="https://codeforces.com/profile/Belal-Nasser11" target="_blank" style="margin:6px; display:inline-block;">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Belal--Nasser11-0057ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Belal-Nasser11/" target="_blank" style="margin:6px; display:inline-block;">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Belal--Nasser11-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/011022bn" target="_blank" style="margin:6px; display:inline-block;">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-011022bn-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</div>
+
 
   <h2>🚀 Featured Project</h2>
   <a href="https://github.com/Belal303111/AirBnB_clone_v2" target="_blank">
