@@ -1,11 +1,17 @@
 <div align="center" style="background-color:#0d1117; color:white; padding:40px; border-radius:20px;">
-  
+
   <h1>👋 Hi, I'm <span style="color:#58a6ff;">Belal Nasser</span></h1>
   <h3>
     <span id="typing" style="color:#8b949e;">Building Robust Back-End Solutions...</span>
   </h3>
-
   <p><em>"Keep building, keep learning."</em></p>
+
+  <br>
+
+  <h2>🏆 GitHub Trophies</h2>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=Belal303111&theme=tokyonight&no-frame=true&margin-w=10" alt="Belal's Trophies" />
+  </p>
 
   <br>
 
@@ -46,6 +52,19 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belal303111&layout=compact&theme=tokyonight" alt="Top Languages" />
   </p>
+  <p style="margin-top:10px;">
+    <img src="https://img.shields.io/badge/Top%20Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" alt="Top Language: C++" />
+  </p>
+  <p style="color:#9fb8dd; font-size:13px;">If GitHub still shows <code>C</code> instead of <code>C++</code>, add a <code>.gitattributes</code> file to your repository root with rules to force C++ classification. Example:</p>
+  <pre style="background:rgba(255,255,255,0.03);padding:10px;border-radius:8px;color:#cbd5e1;overflow:auto;">
+# Force C++ language for files with specific extensions or paths
+*.c linguist-language=C++
+*.h linguist-language=C++
+*.cpp linguist-language=C++
+*.cc linguist-language=C++
+*.hpp linguist-language=C++
+/src/** linguist-language=C++
+</pre>
 
   <br>
 
@@ -71,7 +90,6 @@
   <br>
 
   <p style="color:#8b949e;">© 2025 Belal Nasser | Crafted with ❤️ and Code</p>
-
 </div>
 
 <script>
